@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Node 8
+- Node JS
 
 ## Common setup
 
