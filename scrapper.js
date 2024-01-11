@@ -58,7 +58,7 @@ const getLorcana = async () => {
   // Fermer le navigateur une fois le traitement terminé
   await browser.close();
 
-  console.log('Les données ont été enregistrées dans le fichier "output.json".');
+  console.log('Les données ont été enregistrées dans le fichier "cardList.json".');
 };
 
 // Fonction pour extraire les données d'une page
