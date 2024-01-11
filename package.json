@@ -1,0 +1,20 @@
+{
+  "name": "card-market-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "types": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.7.0",
+    "uuid": "^9.0.1",
+    "uuidv4": "^6.2.13"
+  }
+}
