@@ -56,7 +56,9 @@ const getLorcana = async () => {
   fs.writeFileSync('cardList.json', jsonContent);
 
   // Fermer le navigateur une fois le traitement terminé
-  await browser.close();
+  // await browser.close();
+
+  console.log(carList);
 
   console.log('Les données ont été enregistrées dans le fichier "cardList.json".');
 };
@@ -87,6 +89,17 @@ const scrapePage = async (page) => {
         )
       )?.innerText;
 
+      const cardRarity = (
+        card.querySelector("div:nth-child(4) > div > div.col-sm-2.d-none.d-sm-flex.has-content-centered > div > span > span")
+      )?.getAttribute("data-bs-original-title");
+
+      const cardEdition = (
+        card.querySelector(
+          "div.col-icon.small > a"
+        )
+      )?.getAttribute("data-bs-original-title");
+
+
       const sourceImage = (
         card.querySelector(" div:nth-child(2) > span")
       )?.getAttribute("data-bs-original-title");
@@ -99,7 +112,7 @@ const scrapePage = async (page) => {
       const id = Math.round(Date.now() + Math.random() * 10000);
 
       // Retourner un objet représentant la carte
-      return { id, cardName, cardPrice, cardPriceFoil, cardImgUrl };
+      return { id, cardName, cardPrice, cardPriceFoil, cardRarity, cardEdition, cardImgUrl };
     });
   });
 };
