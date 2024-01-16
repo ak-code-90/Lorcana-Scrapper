@@ -387,7 +387,17 @@
     "cardPriceFoil": "90,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "Premier Chapitre",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729400/729400.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729400/729400.jpg",
+    "cardCost": "5",
+    "cardInkwellIcon": true,
+    "cardClassifications": ["storyborn", "hero", "deity"],
+    "cardInk": "Ruby",
+    "cardStrength": 6,
+    "cardWillPower": 5,
+    "cardLoreValue": null,
+    "cardUniverse": "Moana",
+    "cardNumber": 212,
+    "cardType": "Character"
   },
   {
     "id": 1705112598223,
@@ -396,7 +406,17 @@
     "cardPriceFoil": "85,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "L'Ascension des Floodborn",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745480/745480.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745480/745480.jpg",
+    "cardCost": "3",
+    "cardInkwellIcon": true,
+    "cardClassifications": ["storyborn", "vilain"],
+    "cardInk": "Ruby",
+    "cardStrength": 3,
+    "cardWillPower": 3,
+    "cardLoreValue": 1,
+    "cardUniverse": "The Jungle Book",
+    "cardNumber": 214,
+    "cardType": "Character"
   },
   {
     "id": 1705112602179,
@@ -405,7 +425,17 @@
     "cardPriceFoil": "84,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "Premier Chapitre",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729398/729398.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729398/729398.jpg",
+    "cardCost": "7",
+    "cardInkwellIcon": false,
+    "cardClassifications": ["floodborn", "hero"],
+    "cardInk": "Emerald",
+    "cardStrength": 6,
+    "cardWillPower": 5,
+    "cardLoreValue": 2,
+    "cardUniverse": "Mickey Mouse",
+    "cardNumber": 210,
+    "cardType": "Character"
   },
   {
     "id": 1705112602804,
@@ -414,7 +444,17 @@
     "cardPriceFoil": "80,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "Premier Chapitre",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729397/729397.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729397/729397.jpg",
+    "cardCost": "6",
+    "cardInkwellIcon": false,
+    "cardClassifications": ["storyborn", "ally"],
+    "cardInk": "Emerald",
+    "cardStrength": 3,
+    "cardWillPower": 4,
+    "cardLoreValue": 2,
+    "cardUniverse": "Aladdin",
+    "cardNumber": 209,
+    "cardType": "Character"
   },
   {
     "id": 1705112606634,
@@ -423,7 +463,17 @@
     "cardPriceFoil": "80,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "Premier Chapitre",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729399/729399.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/1TFC/729399/729399.jpg",
+    "cardCost": "7",
+    "cardInkwellIcon": true,
+    "cardClassifications": ["floodborn", "hero"],
+    "cardInk": "Ruby",
+    "cardStrength": 5,
+    "cardWillPower": 5,
+    "cardLoreValue": 2,
+    "cardUniverse": "Aladdin",
+    "cardNumber": 211,
+    "cardType": "Character"
   },
   {
     "id": 1705112606350,
@@ -432,7 +482,17 @@
     "cardPriceFoil": "75,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "L'Ascension des Floodborn",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745475/745475.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745475/745475.jpg",
+    "cardCost": "3",
+    "cardInkwellIcon": false,
+    "cardClassifications": ["dreamborn", "hero", "sorcerer"],
+    "cardInk": "Amethyst",
+    "cardStrength": 1,
+    "cardWillPower": 3,
+    "cardLoreValue": 1,
+    "cardUniverse": "The Sword in the Stone",
+    "cardNumber": 207,
+    "cardType": "Character"
   },
   {
     "id": 1705112601496,
@@ -441,7 +501,17 @@
     "cardPriceFoil": "70,00 €",
     "cardRarity": "Enchanted",
     "cardEdition": "L'Ascension des Floodborn",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745478/745478.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/2ROF/745478/745478.jpg",
+    "cardCost": "6",
+    "cardInkwellIcon": true,
+    "cardClassifications": ["storyborn", "hero", "prince"],
+    "cardInk": "Emerald",
+    "cardStrength": 4,
+    "cardWillPower": 5,
+    "cardLoreValue": 2,
+    "cardUniverse": "Sleeping Beauty",
+    "cardNumber": 210,
+    "cardType": "Character"
   },
   {
     "id": 1705112606383,
@@ -450,7 +520,18 @@
     "cardPriceFoil": "69,00 €",
     "cardRarity": "Promo",
     "cardEdition": "Promos",
-    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/PR1/745125/745125.jpg"
+    "cardImgUrl": "https://product-images.s3.cardmarket.com/1629/PR1/745125/745125.jpg",
+    "cardCost": "4",
+    "cardInkwellIcon": true,
+    "cardClassifications": ["action", "song"],
+    "cardInk": "Sapphire",
+    "cardStrength": null,
+    "cardWillPower": null,
+    "cardLoreValue": null,
+    "cardUniverse": "The Jungle Book",
+    "cardNumber": 214,
+    "cardType": "Action",
+    "cardEffects": "(A character with cost 4 or more can ↷ to sing this song for free.) Your characters gain Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2"
   },
   {
     "id": 1705112601375,
